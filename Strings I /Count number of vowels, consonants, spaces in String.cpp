@@ -36,9 +36,9 @@ int main (){
         }
 
     }
-    cout<< Vowels << endl;
-    cout<< Consonants << endl;
-    cout<< Whitespaces << endl;
-    
+    cout<< "Vowels: " << Vowels << endl;
+    cout<< "Consonants: " << Consonants << endl;
+    cout<< "Whitespaces: " << Whitespaces << endl;
+
     return 0;
 }
